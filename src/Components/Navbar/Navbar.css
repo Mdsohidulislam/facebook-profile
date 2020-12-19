@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+nav{
+    background-color: blue;
+    margin-top: 3px;
+    padding: 10px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin-right: 10px;
+    font-weight: 600;
+    font-style: italic;
+}
+nav a:hover{
+    background-color: gray;
+}
